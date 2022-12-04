@@ -17,3 +17,5 @@
 ![Charlesproxy](https://img.shields.io/badge/-html-000000?style=for-the-badge&logo=languagehtml&logoColor=E44D26)
 
 follow me
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anton-rshk&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
