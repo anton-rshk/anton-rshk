@@ -17,7 +17,10 @@
 
 ## Портфолио
 
-- [Чеклисты](https://github.com/anton-rshk/Test-keys)
+- [Тест-кейсы](https://github.com/anton-rshk/Test-keys)
+- [Чек-листы](https://github.com/anton-rshk/Check-list)
+- [Баг-репорты](https://github.com/anton-rshk/Bag-reports)
+- [Таблицы принятия решений](https://github.com/anton-rshk/Decision-table)
 
 ## Связь со мной
 
