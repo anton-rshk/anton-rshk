@@ -21,6 +21,7 @@
 - [Чек-листы](https://github.com/anton-rshk/Check-list)
 - [Баг-репорты](https://github.com/anton-rshk/Bag-reports)
 - [Таблицы принятия решений](https://github.com/anton-rshk/Decision-table)
+- [SQL запросы](https://docs.google.com/document/d/1fzSkVFDLYCsfGMc774N4aobXvxcerBn47oY3voCKQEo/edit?usp=sharing)
 
 ## Связь со мной
 
