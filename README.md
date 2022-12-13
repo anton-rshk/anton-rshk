@@ -11,9 +11,12 @@
 ![Devtools](https://img.shields.io/badge/-Devtools-000000?style=for-the-badge&logo=googlechrome&logoColor=1A73E8)
 ![Androidstudio](https://img.shields.io/badge/-androidstudio-000000?style=for-the-badge&logo=androidstudio&logoColor=249644)
 ![Figma](https://img.shields.io/badge/-figma-000000?style=for-the-badge&logo=figma&logoColor=A259FF)
+![VS](https://img.shields.io/badge/-vscode-000000?style=for-the-badge&logo=visualstudio&logoColor=3CA8F1)
 ![Github](https://img.shields.io/badge/-github-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![Charlesproxy](https://img.shields.io/badge/-CharlesProxy-000000?style=for-the-badge)
 ![Charlesproxy](https://img.shields.io/badge/-html-000000?style=for-the-badge&logo=languagehtml&logoColor=E44D26)
+
+
 
 ## Портфолио
 
@@ -22,6 +25,7 @@
 - [Баг-репорты](https://github.com/anton-rshk/Bag-reports)
 - [Таблицы принятия решений](https://github.com/anton-rshk/Decision-table)
 - [SQL запросы](https://docs.google.com/document/d/1fzSkVFDLYCsfGMc774N4aobXvxcerBn47oY3voCKQEo/edit?usp=sharing)
+- [API запросы в Postman](https://docs.google.com/document/d/17UAxm6EEbG8-lY0pgib20U4tZwHR6aKkj0wWOOoDhwc/edit?usp=sharing)
 
 ## Связь со мной
 
