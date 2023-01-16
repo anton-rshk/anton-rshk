@@ -22,7 +22,7 @@
 
 - [Bag-reports](https://github.com/anton-rshk/Bag-reports)
 - [Checklists](https://github.com/anton-rshk/Check-list)
-- [Test-keys](https://github.com/anton-rshk/Test-keys)
+- [Test-cases](https://github.com/anton-rshk/Test-keys)
 - [Decision tables](https://github.com/anton-rshk/Decision-table)
 - [SQL queries](https://docs.google.com/document/d/1fzSkVFDLYCsfGMc774N4aobXvxcerBn47oY3voCKQEo/edit?usp=sharing)
 - [API requests in Postman](https://docs.google.com/document/d/17UAxm6EEbG8-lY0pgib20U4tZwHR6aKkj0wWOOoDhwc/edit?usp=sharing)
