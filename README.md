@@ -1,8 +1,8 @@
 ![HEADER](https://github.com/anton-rshk/anton-rshk/blob/main/Frame%2029.png)
 
-## Я начинающий QA специалист, повышаю качество продукта
+## My goal is to provide the highest quality product. Looking for a job in a team of professionals with whom we can make the best product
 
-## Инструменты и языки
+## Tools and languages
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=FFD342)
 ![Jira](https://img.shields.io/badge/-Jira-000000?style=for-the-badge&logo=jira&logoColor=2684FF)
@@ -18,21 +18,21 @@
 
 
 
-## Портфолио
+## Portfolio
 
-- [Тест-кейсы](https://github.com/anton-rshk/Test-keys)
-- [Чек-листы](https://github.com/anton-rshk/Check-list)
-- [Баг-репорты](https://github.com/anton-rshk/Bag-reports)
-- [Таблицы принятия решений](https://github.com/anton-rshk/Decision-table)
-- [SQL запросы](https://docs.google.com/document/d/1fzSkVFDLYCsfGMc774N4aobXvxcerBn47oY3voCKQEo/edit?usp=sharing)
-- [API запросы в Postman](https://docs.google.com/document/d/17UAxm6EEbG8-lY0pgib20U4tZwHR6aKkj0wWOOoDhwc/edit?usp=sharing)
+- [Test-keys](https://github.com/anton-rshk/Test-keys)
+- [Checklists](https://github.com/anton-rshk/Check-list)
+- [Bag-reports](https://github.com/anton-rshk/Bag-reports)
+- [Decision tables](https://github.com/anton-rshk/Decision-table)
+- [SQL queries](https://docs.google.com/document/d/1fzSkVFDLYCsfGMc774N4aobXvxcerBn47oY3voCKQEo/edit?usp=sharing)
+- [API requests in Postman](https://docs.google.com/document/d/17UAxm6EEbG8-lY0pgib20U4tZwHR6aKkj0wWOOoDhwc/edit?usp=sharing)
 
-## Связь со мной
+## Contact me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram)](https://t.me/lala_tnt)
 [![Whatsap](https://img.shields.io/badge/-Whatsapp-000000?style=for-the-badge&logo=whatsapp)](https://wa.me/79962471853)
-[![VK](https://img.shields.io/badge/-VK-000000?style=for-the-badge&logo=vk&logoColor=0077FF)](https://vk.com/id453931970)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=0077FF)](https://www.linkedin.com/in/anton-iryshkov-2097b525b/)
 
-## Статистика на GitHub
+## Statistics on GitHub
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anton-rshk&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
