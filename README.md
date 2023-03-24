@@ -20,7 +20,7 @@
 
 ## Portfolio
 
-- [Bag-reports](https://github.com/anton-rshk/Bag-reports)
+- [Bug-reports](https://github.com/anton-rshk/Bag-reports)
 - [Checklists](https://github.com/anton-rshk/Check-list)
 - [Test-cases](https://github.com/anton-rshk/Test-keys)
 - [Decision tables](https://github.com/anton-rshk/Decision-table)
